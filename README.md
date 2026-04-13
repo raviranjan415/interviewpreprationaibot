@@ -24,3 +24,4 @@ An interactive chatbot designed to help users practice technical interview quest
 3. Create a `.env` file with your Gemini API key:
    ```bash
    pip install flask flask-cors google-generativeai python-dotenv
+   
