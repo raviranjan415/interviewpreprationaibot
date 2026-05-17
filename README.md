@@ -25,3 +25,4 @@ An interactive chatbot designed to help users practice technical interview quest
    ```bash
    pip install flask flask-cors google-generativeai python-dotenv
    
+now time to automate using devops tool
